@@ -1,0 +1,10 @@
+button {
+  margin-right: 5px;
+}
+.inline {
+  display: inline-block;
+}
+.done {
+  color: gray;
+  text-decoration: line-through;
+}
